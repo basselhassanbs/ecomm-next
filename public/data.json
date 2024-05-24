@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Car",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
+    "price": 100
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
+    "price": 30
+  },
+  {
+    "id": 3,
+    "name": "Mobile",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
+    "price": 10
+  },
+  {
+    "id": 4,
+    "name": "Mouse",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
+    "price": 50
+  },
+  {
+    "id": 5,
+    "name": "Keyboard",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
+    "price": 500
+  },
+  {
+    "id": 6,
+    "name": "Car2",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.",
+    "price": 130
+  }
+]
